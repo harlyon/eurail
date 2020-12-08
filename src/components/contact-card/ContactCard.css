@@ -1,0 +1,51 @@
+.ContactCard {
+    border-radius: 15px 15px;
+    text-align: left;
+    border: #CCCCCC solid 1px;
+    background: #EEE;
+    padding: 20px;
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100%;
+    z-index: 10;
+}
+
+.ContactCard .info {
+    flex: 70%;
+}
+
+.Avatar {
+    flex: 20%;
+}
+
+.ContactCard table {
+    font-size: 0.7rem;
+}
+
+.ContactCard-label{
+    font-weight: bold;
+}
+
+.ContactCard-close-button {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #999;
+}
+
+.ContactCard-username {
+    margin-top: -5px;
+    padding: 4px;
+    color: #ffffff;
+    font-size: 0.7rem;
+    position: absolute;
+    transform: rotate(90deg);
+    top: 0;
+    transform-origin: left top;
+    left: 98%;
+    white-space: nowrap;
+    background: rgb(255,34,0);
+    background: linear-gradient(90deg, rgba(255,34,0,1) 0%, rgba(255,175,0,1) 32%, rgba(255,89,0,1) 100%);
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.12), 2px 1px 2px rgba(0, 0, 0, 0.24);
+}

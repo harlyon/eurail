@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactCard should match snapshot 1`] = `
+<div>
+  <h1>
+    Contact List
+  </h1>
+  <div
+    className="ContactList"
+  >
+    <div
+      className="ContactList-tabs-row"
+    />
+    <ul
+      className="ContactList-list"
+    />
+  </div>
+</div>
+`;

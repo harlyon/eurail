@@ -1,0 +1,273 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContactCard should match snapshot 1`] = `
+<div
+  className="ContactCard"
+>
+  <button
+    className="ContactCard-close-button"
+    onClick={[Function]}
+  >
+    <svg
+      aria-hidden="true"
+      className="svg-inline--fa fa-times fa-w-11 fa-null fa-rotate-null fa-pull-null "
+      data-icon="times"
+      data-prefix="fas"
+      focusable="false"
+      role="img"
+      style={Object {}}
+      viewBox="0 0 352 512"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"
+        fill="currentColor"
+        style={Object {}}
+      />
+    </svg>
+  </button>
+  <div
+    className="Avatar"
+  >
+    <img
+      alt="contact avatar"
+      src="https://randomuser.me/api/portraits/med/women/58.jpg"
+    />
+  </div>
+  <div
+    className="info"
+  >
+    <div
+      className="row"
+    >
+      <span
+        className="ContactItem-surname"
+      >
+        Mercier
+      </span>
+      , 
+      Loane
+    </div>
+    <table>
+      <tbody>
+        <tr
+          className="row"
+        >
+          <th
+            className="ContactCard-label"
+          >
+            e-mail
+          </th>
+          <td>
+            Loane.Mercier@example.com
+          </td>
+        </tr>
+        <tr
+          className="row"
+        >
+          <th
+            className="ContactCard-label"
+          >
+            phone
+          </th>
+          <td>
+            03-24-99-12-06
+          </td>
+        </tr>
+        <tr
+          className="row"
+        >
+          <th
+            className="ContactCard-label"
+          >
+            street
+          </th>
+          <td>
+            Boulevard de Balmont
+             
+            1826
+          </td>
+        </tr>
+        <tr
+          className="row"
+        >
+          <th
+            className="ContactCard-label"
+          >
+            city
+          </th>
+          <td>
+            Nîmes
+          </td>
+        </tr>
+        <tr
+          className="row"
+        >
+          <th
+            className="ContactCard-label"
+          >
+            state
+          </th>
+          <td>
+            Cher
+          </td>
+        </tr>
+        <tr
+          className="row"
+        >
+          <th
+            className="ContactCard-label"
+          >
+            postcode
+          </th>
+          <td>
+            92735
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div
+    className="ContactCard-username"
+  >
+    USERNAME 
+    beautifulsnake364
+  </div>
+</div>
+`;
+
+exports[`ContactCard should match snapshot 2`] = `
+<div
+  className="ContactCard"
+>
+  <button
+    className="ContactCard-close-button"
+    onClick={[Function]}
+  >
+    <svg
+      aria-hidden="true"
+      className="svg-inline--fa fa-times fa-w-11 fa-null fa-rotate-null fa-pull-null "
+      data-icon="times"
+      data-prefix="fas"
+      focusable="false"
+      role="img"
+      style={Object {}}
+      viewBox="0 0 352 512"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"
+        fill="currentColor"
+        style={Object {}}
+      />
+    </svg>
+  </button>
+  <div
+    className="Avatar"
+  >
+    <img
+      alt="contact avatar"
+      src="https://randomuser.me/api/portraits/med/women/58.jpg"
+    />
+  </div>
+  <div
+    className="info"
+  >
+    <div
+      className="row"
+    >
+      <span
+        className="ContactItem-surname"
+      >
+        Mercier
+      </span>
+      , 
+      Loane
+    </div>
+    <table>
+      <tbody>
+        <tr
+          className="row"
+        >
+          <th
+            className="ContactCard-label"
+          >
+            e-mail
+          </th>
+          <td>
+            Loane.Mercier@example.com
+          </td>
+        </tr>
+        <tr
+          className="row"
+        >
+          <th
+            className="ContactCard-label"
+          >
+            phone
+          </th>
+          <td>
+            03-24-99-12-06
+          </td>
+        </tr>
+        <tr
+          className="row"
+        >
+          <th
+            className="ContactCard-label"
+          >
+            street
+          </th>
+          <td>
+            Boulevard de Balmont
+             
+            1826
+          </td>
+        </tr>
+        <tr
+          className="row"
+        >
+          <th
+            className="ContactCard-label"
+          >
+            city
+          </th>
+          <td>
+            Nîmes
+          </td>
+        </tr>
+        <tr
+          className="row"
+        >
+          <th
+            className="ContactCard-label"
+          >
+            state
+          </th>
+          <td>
+            Cher
+          </td>
+        </tr>
+        <tr
+          className="row"
+        >
+          <th
+            className="ContactCard-label"
+          >
+            postcode
+          </th>
+          <td>
+            92735
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div
+    className="ContactCard-username"
+  >
+    USERNAME 
+    beautifulsnake364
+  </div>
+</div>
+`;

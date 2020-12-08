@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar should match snapshot 1`] = `
+<div
+  className="Avatar"
+>
+  <img
+    alt="contact avatar"
+    src="https://randomuser.me/api/portraits/med/women/58.jpg"
+  />
+</div>
+`;

@@ -1,0 +1,25 @@
+.ContactItem {
+    display: block;
+    width: 100%;
+    border-bottom: #CCC 1px solid;
+}
+
+.ContactItem-li {
+    list-style-type: none;
+    text-align: left;
+    padding: 15px;
+    position: relative;
+}
+
+.ContactItem-container {
+    position: relative;
+}
+
+.ContactItem button:hover {
+    color: darkorange;
+    cursor: pointer;
+}
+
+.ContactItem-surname {
+    text-transform: uppercase;
+}
